@@ -1,0 +1,8 @@
+# Ignora el entorno virtual completo
+JSTB_AI/venv/
+
+# Ignora otros archivos grandes innecesarios
+*.exe
+*.dll
+*.lib
+*.pyd
